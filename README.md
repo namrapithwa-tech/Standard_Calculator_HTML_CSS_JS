@@ -30,6 +30,6 @@ This project demonstrates the following skills:
 - **CSS**: Styling the calculator for a clean and user-friendly appearance.
 - **JavaScript**: Implementing the calculator's functionality including arithmetic operations, memory functions, and keyboard support.
 
-## Project Recording
+## Project Snapshot
+![image](https://github.com/user-attachments/assets/30242c61-fe78-49da-b2c5-01fcadb4ed9e)
 
-[Watch a recording of the project](https://drive.google.com/drive/folders/dummy_link)
